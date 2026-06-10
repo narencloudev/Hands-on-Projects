@@ -1,4 +1,4 @@
-# 🚀 DevOps Capstone Project (AWS Free Tier)
+# 🚀 DevOps Capstone Project (AWS)
 
 ## 📌 Project Overview
 
