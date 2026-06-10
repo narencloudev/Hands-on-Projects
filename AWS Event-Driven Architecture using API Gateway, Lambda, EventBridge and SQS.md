@@ -12,6 +12,7 @@ This project demonstrates an event-driven architecture on AWS using:
 The application receives client information through an API Gateway endpoint. Lambda processes the request and publishes a custom event to EventBridge. EventBridge evaluates the event using rules and routes the message to the appropriate SQS queue based on the client type.
 
 ---
+<img width="772" height="342" alt="image" src="https://github.com/user-attachments/assets/2ed689de-111a-4cc6-9568-c9a4c0d9fb6b" />
 
 ## Architecture
 
